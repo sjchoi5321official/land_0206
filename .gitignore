@@ -1,0 +1,14 @@
+venv/
+.sisyphus/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv.bak/
+ENV/
+env.bak/
+.vscode/
+.idea/
+nul
