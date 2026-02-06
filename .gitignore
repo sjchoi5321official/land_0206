@@ -1,5 +1,5 @@
 venv/
-.sisyphus/
+#.sisyphus/
 __pycache__/
 *.py[cod]
 *$py.class
